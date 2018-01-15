@@ -1,0 +1,5 @@
+C:\Users\Meysam\Documents\SharpDevelop Projects\copy-multithread\copy-multithread\bin\Debug\copy-multithread.exe.config
+C:\Users\Meysam\Documents\SharpDevelop Projects\copy-multithread\copy-multithread\bin\Debug\copy-multithread.exe
+C:\Users\Meysam\Documents\SharpDevelop Projects\copy-multithread\copy-multithread\bin\Debug\copy-multithread.pdb
+C:\Users\Meysam\Documents\SharpDevelop Projects\copy-multithread\copy-multithread\obj\Debug\copy-multithread.exe
+C:\Users\Meysam\Documents\SharpDevelop Projects\copy-multithread\copy-multithread\obj\Debug\copy-multithread.pdb

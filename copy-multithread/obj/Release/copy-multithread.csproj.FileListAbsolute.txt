@@ -1,0 +1,4 @@
+C:\Users\Meysam\Documents\SharpDevelop Projects\copy-multithread\copy-multithread\bin\Release\copy-multithread.exe.config
+C:\Users\Meysam\Documents\SharpDevelop Projects\copy-multithread\copy-multithread\bin\Release\copy-multithread.exe
+C:\Users\Meysam\Documents\SharpDevelop Projects\copy-multithread\copy-multithread\obj\Release\copy-multithread.csprojResolveAssemblyReference.cache
+C:\Users\Meysam\Documents\SharpDevelop Projects\copy-multithread\copy-multithread\obj\Release\copy-multithread.exe
